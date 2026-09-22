@@ -1,11 +1,4 @@
-.theme-b {
-  background: #444477;
-  color: #bbbbdd;
-}
-@media (prefers-color-scheme: light) {
-  .theme-b.adaptive {
-    background: #bbccdd;
-    color: #333344;
-    outline: 5px dotted black;
-  }
+:root {
+  --bg-color: #121212;
+  --text-color: #ffffff;
 }
